@@ -907,7 +907,7 @@ a.site-button{
 
 /* Contact section*/
 #contact{
-  background: rgba(255, 255, 255, 0.9) url("../images/contact-me.jpg") no-repeat scroll center bottom / cover ;
+  background: rgba(255, 255, 255, 0.9) url("../images/contact-me.jpg") no-repeat scroll center top / cover ;
   padding: 80px 0px 80px 0px;
   color: #fff;
 }
